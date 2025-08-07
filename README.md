@@ -40,7 +40,7 @@ This program is perfect for anyone interested in understanding how basic encrypt
 
 ### 🧑‍💻 Step-by-Step:
 
-```bash
+```
 # 1. Clone this repository
 git clone https://github.com/shivatharun07/caesar-cipher.git
 
@@ -49,3 +49,13 @@ cd caesar-cipher
 
 # 3. Run the program
 python3 caesar_cipher.py
+
+Example Usage:
+
+Welcome to the Caesar Cipher Program!
+Do you want to encrypt or decrypt? (type 'exit' to quit): encrypt
+Enter your message: Hello, World!
+Enter shift value (0-25): 5
+
+Encrypted Message: Mjqqt, Btwqi!
+
